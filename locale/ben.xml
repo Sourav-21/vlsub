@@ -1,0 +1,56 @@
+<action_hash>ভিডিওর তথ্য গণনা করা হচ্ছে</action_hash>
+<action_login>প্রবেশ</action_login>
+<action_logout>বাহির</action_logout>
+<action_noop>সেশন পরীক্ষা করা হচ্ছে</action_noop>
+<action_search>সাবটাইটেল খোঁজা হচ্ছে</action_search>
+<int_all>সমস্ত</int_all>
+<int_bool_false>না</int_bool_false>
+<int_bool_true>হ্যাঁ</int_bool_true>
+<int_cancel>বাতিল</int_cancel>
+<int_close>বন্ধ</int_close>
+<int_config>বিন্যাস</int_config>
+<int_configuration>বিন্যাস</int_configuration>
+<int_default_lang>সাবটাইটেলের ভাষা</int_default_lang>
+<int_descr>OpenSubtitles.org থেকে সাবটাইটেল নামানো হচ্ছে</int_descr>
+<int_display_code>ফাইলের নামে ভাষা কোড প্রদর্শন করুন</int_display_code>
+<int_dowload_behav>সাবটাইটেলের সঙ্গে কি করবেন</int_dowload_behav>
+<int_dowload_load>শুধুমাত্র বোঝাই করুন</int_dowload_load>
+<int_dowload_manual>নিজে ডাউনলোড করুন</int_dowload_manual>
+<int_dowload_save>বোঝাই এবং সংরক্ষণ করুন</int_dowload_save>
+<int_dowload_sel>নির্বাচিতগুলো নামান</int_dowload_sel>
+<int_episode>পর্ব (ধারাবাহিক)</int_episode>
+<int_help>সাহায্য</int_help>
+<int_help_mess>Download subtitles from &lt;a href=&#39;http://www.opensubtitles.org/&#39;&gt;opensubtitles.org&lt;/a&gt; and display them while watching a video.&lt;br&gt; &lt;br&gt; &lt;b&gt;&lt;u&gt;Usage:&lt;/u&gt;&lt;/b&gt;&lt;br&gt; &lt;br&gt; VLSub is meant to be used while you are watching the video, so start it first (if nothing is playing you will get a link to download the subtitles in your browser).&lt;br&gt; &lt;br&gt; Choose the language for your subtitles and click on the button corresponding to one of the two research methods provided by VLSub:&lt;br&gt; &lt;br&gt; &lt;b&gt;Method 1: Search by hash&lt;/b&gt;&lt;br&gt; It is recommended to try this method first, because it performs a research based on the video file print, so you can find subtitles synchronized with your video.&lt;br&gt; &lt;br&gt; &lt;b&gt;Method 2: Search by name&lt;/b&gt;&lt;br&gt; If you have no luck with the first method, just check the title is correct before clicking. If you search subtitles for a series, you can also provide a season and episode number.&lt;br&gt; &lt;br&gt; &lt;b&gt;Downloading Subtitles&lt;/b&gt;&lt;br&gt; Select one subtitle in the list and click on &#39;Download&#39;.&lt;br&gt; It will be put in the same directory as that of your video, with the same name (different extension) so VLC will load them automatically the next time you&#39;ll start the video.&lt;br&gt; &lt;br&gt; &lt;b&gt;/!\ Beware :&lt;/b&gt; Existing subtitles are overwritten without asking confirmation, so put them elsewhere if they&#39;re important.&lt;br&gt; &lt;br&gt; Find more VLC extensions at &lt;a href=&#39;http://addons.videolan.org&#39;&gt;addons.videolan.org&lt;/a&gt;.</int_help_mess>
+<int_int_lang>ইন্টারফেসের ভাষা</int_int_lang>
+<int_ok>ঠিক আছে</int_ok>
+<int_remove_tag>ট্যাগ মুছুন</int_remove_tag>
+<int_research>অন্বেষণ</int_research>
+<int_save>সংরক্ষণ করুন</int_save>
+<int_search_hash>হ্যাশ ধরে খুজুন</int_search_hash>
+<int_searching_transl>অনুবাদ খোঁজা হচ্ছে ...</int_searching_transl>
+<int_search_name>নাম ধরে খুজুন</int_search_name>
+<int_search_transl>অনুবাদ খুজুন</int_search_transl>
+<int_season>পর্ব (ধারাবাহিক)</int_season>
+<int_show_conf>বিন্যাস দেখান</int_show_conf>
+<int_show_help>সাহায্য দেখান</int_show_help>
+<int_title>শিরোনাম</int_title>
+<int_vlsub_work_dir>VLSub এর কাজ করার ডিরেক্টরি</int_vlsub_work_dir>
+<mess_click_link>ফাইলটা খুলতে এখানে ক্লিক করুন</mess_click_link>
+<mess_complete>অন্বেষণ শেষ</mess_complete>
+<mess_dowload_link>ডাউনলোডের লিঙ্ক</mess_dowload_link>
+<mess_downloading>সাবটাইটেল নামানো হচ্ছেe</mess_downloading>
+<mess_error>ভুল</mess_error>
+<mess_expired>সেশনের মেয়াদ শেষ, আবার চেষ্টা করা হচ্ছে</mess_expired>
+<mess_loaded>সাবটাইটেল ভরা হয়েছে</mess_loaded>
+<mess_no_input>দয়া করে চালানোর সময় এই পদ্ধতিটির প্রয়োগ করুন</mess_no_input>
+<mess_no_res>ফলাফলহীন</mess_no_res>
+<mess_no_response>সার্ভার সাড়া দিচ্ছে না</mess_no_response>
+<mess_no_selection>কোনো সাবটাইটেল নির্বাচন করা হয়নি</mess_no_selection>
+<mess_not_found>ফাইলটি খুঁজে পাওয়া যাচ্ছে না</mess_not_found>
+<mess_not_found2>ফাইলটি খুঁজে পাওয়া যাচ্ছে না (অবৈধ অক্ষর?)</mess_not_found2>
+<mess_not_local>এই পদ্ধিতিটি শুধু স্থানীয় ফাইলের ক্ষেত্রে কাজ করবে (এখন)</mess_not_local>
+<mess_overloaded>সার্ভারে অত্যধিক চাপ পড়েছে, পরে আবার চেষ্টা করুন</mess_overloaded>
+<mess_res>ফলাফল(গুলো)</mess_res>
+<mess_save_fail>সাবটাইটেল সংরক্ষণ করতে ব্যর্থ</mess_save_fail>
+<mess_success>সফল</mess_success>
+<mess_unauthorized>অবৈধ আবেদন</mess_unauthorized>
